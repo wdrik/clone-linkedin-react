@@ -4,8 +4,14 @@ export const Container = styled.div`
   width: 100%;
   height: 100%;
 
+  > span {
+    margin-top: 48px;
+    display: flex;
+  }
+
   .left-column,
-  .right-column {
+  .right-column,
+  .ad-banner {
     display: none;
   }
 
@@ -16,8 +22,14 @@ export const Container = styled.div`
       justify-content: center;
     }
 
+    > span {
+      margin-top: 52px;
+      padding: 8px 0;
+    }
+
     .left-column,
-    .right-column {
+    .right-column,
+    .ad-banner {
       display: unset;
     }
 
