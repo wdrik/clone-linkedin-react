@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="LinkedIn - UI Clone" src="https://raw.githubusercontent.com/wdrik/wdrik/master/public/logo512.png?raw=true" /> 
+  <img alt="LinkedIn - UI Clone" src="https://raw.githubusercontent.com/wdrik/clone-linkedin-react/master/public/logo512.png?raw=true" /> 
   <br>
   LinkedIn - UI Clone
 </h1>
