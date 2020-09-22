@@ -17,6 +17,7 @@ export const Container = styled.div`
       color: var(--color-link);
       margin-bottom: 10px;
     }
+    
     .tag {
       color: var(--color-gray);
       display: flex;

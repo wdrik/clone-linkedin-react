@@ -5,13 +5,20 @@ import Skeleton from '../../Skeleton';
 
 import { Container } from './styles';
 
-const LoadingProfilePanel: React.FC = () => {
+const LoadingFeedPost: React.FC = () => {
   return (
     <Container>
       <Panel className="no-shadow">
-        <Skeleton className="bg-skeleton" />
-        <span>
+        <header>
           <Skeleton className="avatar-skeleton" />
+
+          <div className="column">
+            <Skeleton className="row-skeleton" />
+            <Skeleton className="row-skeleton" />
+          </div>
+        </header>
+
+        <span>
           <Skeleton className="row-skeleton" />
           <Skeleton className="row-skeleton" />
         </span>
@@ -20,4 +27,4 @@ const LoadingProfilePanel: React.FC = () => {
   );
 };
 
-export default LoadingProfilePanel;
+export default LoadingFeedPost;

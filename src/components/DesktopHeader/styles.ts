@@ -90,6 +90,7 @@ const generalIconCSS = css`
 export const LinkedInIcon = styled(GrLinkedin)`
   width: 34px;
   height: 34px;
+  background: var(--color-white);
   color: var(--color-linkedin);
   border-radius: 4px;
   flex-shrink: 0;

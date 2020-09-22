@@ -15,8 +15,8 @@ const Layout: React.FC = () => {
 
   useEffect(() => {
     setTimeout(() => {
-      // setIsLoading(false);
-    }, 1000);
+      setIsLoading(false);
+    }, 2000);
   }, []);
 
   return (
@@ -24,9 +24,7 @@ const Layout: React.FC = () => {
       <MobileHeader />
       <DesktopHeader />
 
-      <span>
-        <AdBanner />
-      </span>
+      <span>{!isLoading && <AdBanner />}</span>
 
       <main>
         <LeftColumn isLoading={isLoading} />
@@ -38,3 +36,6 @@ const Layout: React.FC = () => {
 };
 
 export default Layout;
+
+// Agradeci a Deus por me presentear com mais um dia pra viver! pra correr, guerrear! lutar!
+// Com humildade em minha oração.. pedi ao meu Senhor que me desse proteção!
