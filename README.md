@@ -14,7 +14,10 @@
   <a href="#memo-license">License</a>
 </p>
 
-![App Screenshot](https://res.cloudinary.com/lukemorales/image/upload/v1563042321/readme_logos/rocketshoes_readme_swvhr9.png)
+<p align="center">
+  <img alt="LinkedIn - UI Clone GIF" src="https://raw.githubusercontent.com/wdrik/clone-linkedin-react/master/public/clone-linkedin.gif?raw=true" /> 
+</p>
+
 <p align="center">
   <a href="https://rocketshoes.netlify.com/" target="_blank">
     <img alt="Demo on Netlify" src="https://res.cloudinary.com/lukemorales/image/upload/v1563043495/readme_logos/demo_on_netlify_bbuvjz.png">
