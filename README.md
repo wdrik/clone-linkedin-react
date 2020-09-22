@@ -1,12 +1,13 @@
 <h1 align="center">
-    <img alt="React RocketShoes" src="https://res.cloudinary.com/lukemorales/image/upload/v1562696000/readme_logos/react-rocketshoes_jy1lze.png" />
-    <br>
-    React RocketShoes
+  <img alt="LinkedIn - UI Clone" src="https://raw.githubusercontent.com/wdrik/wdrik/master/public/logo512.png?raw=true" /> 
+  <br>
+  LinkedIn - UI Clone
 </h1>
 
 <h4 align="center">
-  NetShoes Clone App with React and Redux.
+  LinkedIn Clone App with React and Typescript.
 </h4>
+
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lukemorales/react-rocketshoes.svg">
 
