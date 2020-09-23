@@ -18,10 +18,12 @@
 </p>
 
 <p align="center">
-  <a href="https://rocketshoes.netlify.com/" target="_blank">
+  <a href="linkedin-clone-ui-react.netlify.app" target="_blank">
     <img alt="Demo on Netlify" src="https://res.cloudinary.com/lukemorales/image/upload/v1563043495/readme_logos/demo_on_netlify_bbuvjz.png">
   </a>
 </p>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4ddc9712-5c56-4373-9c9d-4407a542c78a/deploy-status)](https://app.netlify.com/sites/linkedin-clone-ui-react/deploys)
 
 ## :rocket: Technologies
 
