@@ -10,8 +10,7 @@
 
 <p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#information_source-how-to-use">How To Use</a>
 </p>
 
 <p align="center">
@@ -41,10 +40,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/lukemorales/react-rocketshoes
+$ git clone https://github.com/wdrik/clone-linkedin-react.git
 
 # Go into the repository
-$ cd react-rocketshoes
+$ cd clone-linkedin-react
 
 # Install dependencies
 $ yarn install
@@ -52,13 +51,9 @@ $ yarn install
 # Run the app
 $ yarn start
 ```
-
-## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/lukemorales/react-rocketshoes/blob/master/LICENSE) for more information.
-
 ---
 
-Made with ♥ by Luke Morales :wave: [Get in touch!](https://www.linkedin.com/in/lukemorales/)
+Made with ♥ by Iorgen Wildrik :wave: [Get in touch!](https://www.linkedin.com/in/iorgen-wildrik-aa0270132/)
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
